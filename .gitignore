@@ -1,0 +1,16 @@
+*.tmp*
+*.exe
+*.bin
+*.pdf
+*.vtg
+
+
+
+*.html
+*.png
+*.js
+Release*/
+Debug*/
+
+Documentation/
+
